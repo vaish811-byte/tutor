@@ -1,3 +1,2 @@
 # tutor
-hello
-welcome to git
+first daya
